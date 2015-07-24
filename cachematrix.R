@@ -1,7 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
+## The following functions provide a way to create a special
+##  matrix object which can cache internally its inverse.
 
 # Create object containing a list of functions to
 #  set and get the matrix. It also implements
